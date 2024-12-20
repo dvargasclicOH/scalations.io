@@ -9,7 +9,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://dvargasclicOH.github.io/scalations.io.",
+  "homepage": "https://dvargasclicOH.github.io/scalations.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
